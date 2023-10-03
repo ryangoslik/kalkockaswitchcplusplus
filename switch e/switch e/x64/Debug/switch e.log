@@ -1,0 +1,4 @@
+﻿  switch e.cpp
+D:\Szkoła\Nowy folder (2)\switch e\switch e\switch e.cpp(58,15): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+D:\Szkoła\Nowy folder (2)\switch e\switch e\switch e.cpp(63,28): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+  switch e.vcxproj -> D:\Szkoła\Nowy folder (2)\switch e\x64\Debug\switch e.exe
